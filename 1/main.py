@@ -14,7 +14,7 @@ def parser(filename: str) -> list[list[int]]:
 def solve(list_one: list[int], list_two: list[int]) -> None:
     print("Part one:")
     print(solve_part_one(list_one, list_two))
-    print("\nPart two:")
+    print("Part two:")
     print(solve_part_two(list_one, list_two))
 
 
